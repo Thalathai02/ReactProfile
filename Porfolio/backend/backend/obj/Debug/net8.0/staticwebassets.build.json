@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "A/I9yPLK089ITgutYLlX8Roupn1xdtP0dZXZNH1G3Eo=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "c:\\Users\\thalathai.s\\Desktop\\Porfolio\\backend\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\thalathai.s\\Desktop\\Porfolio\\backend\\backend\\wwwroot\\images\\logo_cristalla.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\thalathai.s\\Desktop\\Porfolio\\backend\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/logo_cristalla.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo_cristalla.png"
+    }
+  ]
+}
